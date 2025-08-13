@@ -5,7 +5,7 @@ This is the basic game play of Bequest De Cendres minus infinite loops, and qual
 ~~~
 matraque   - allows you to bludgeon enemyies.
 sekupu     - allows you to scoop up contamination.
-etrangle   - allows you to strange enemies.
+etrangle   - allows you to strangle enemies.
 raitosalle - allows you to shine a flashlight.
 viola      - allows you to heal the player.
 ~~~
